@@ -1,0 +1,6 @@
+{
+  "name": "CRM Kanban",
+  "description": "Sistema de CRM ágil com Kanban para gerenciar tarefas e negócios por status: Não iniciado, Em Andamento e Finalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
